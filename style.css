@@ -1,0 +1,30 @@
+	img {
+			width: 250px;
+
+	}
+	section {
+		display:flex;
+	}
+
+	body {
+		background-size: cover;
+		background-image: url("kfc.png");
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+	
+	.footer {
+		background-color: #a6192e;
+		color: #ffffff;
+		padding: 8px solid;
+		justify-content: center;
+		padding: .5px;
+		padding-left: 18px;
+	}
+
+	.main {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		text-align: center;
+	}
